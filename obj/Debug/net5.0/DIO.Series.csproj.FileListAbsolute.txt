@@ -1,0 +1,16 @@
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/augusto/Documentos/MeusProjetos/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/augusto/Documentos/MeusProjetos/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
